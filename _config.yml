@@ -103,6 +103,9 @@ content:
 
           I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
+          Look at this cool image  
+          ![Trees](images/landscape-trees.jpg "Trees")
+
 #  - title: A Little More About Me
 #    layout: text
 #    content: | # this will include new lines to allow paragraphs
@@ -112,8 +115,7 @@ content:
 #      - Knitting
 #      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
-      Look at this cool image  
-      ![Trees](images/landscape-trees.jpg "Trees")
+
 
 # Footer
 footer_show_references: false
