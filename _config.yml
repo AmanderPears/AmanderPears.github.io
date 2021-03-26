@@ -55,7 +55,7 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
+      - layout: left
         title: ImageToText
         link: https://imagetotext.net/
         # link_text: Project Website
@@ -72,6 +72,68 @@ content:
           An online tool that extracts text from an image. Uses <mark>tesseract.js</mark> to perform OCR. The tool helps extract specific regions and perform some minor adjustments to the image.
 
           <b>Technologies:</b> JavaScript, Bootstrap, Angular, Tesseract.js
+
+          <img style="display:block;margin-left:auto;margin-right:auto" src="images/imagetotext.png" alt="image-to-text screenshot">
+
+      - layout: left
+        title: Minesweeper Game
+        link: https://minesweeper-pixijs.herokuapp.com/index.html
+        link_text: Live Demo
+        #additional_links:
+        #  - title:  sproogen/modern-resume-theme
+        #    icon: fab fa-github
+        #    url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        #quote: >
+        #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: | # this will include new lines to allow paragraphs
+          A minesweeper game.
+
+          <b>Technologies:</b> JavaScript, <mark>PixiJS</mark>
+
+          <img style="display:block;margin-left:auto;margin-right:auto" src="images/minesweeper.png" alt="image-to-text screenshot">
+
+      - layout: left
+        title: Sudoku Game
+        link: https://sudoku-knockoutjs.herokuapp.com/index.html
+        link_text: Live Demo
+        additional_links:
+          - title:  Github Repository
+            icon: fab fa-github
+            url: https://github.com/AmanderPears/sudoku-knockoutjs
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        #quote: >
+        #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: | # this will include new lines to allow paragraphs
+          A sudoku game.
+
+          <b>Technologies:</b> JavaScript, KnockoutJS, Bootstrap
+
+          <img style="display:block;margin-left:auto;margin-right:auto" src="images/sudoku.png" alt="image-to-text screenshot">
+
+      - layout: left
+        title: Snek-w-frends
+        link: http://172.105.6.24/
+        link_text: Live Demo
+        additional_links:
+          - title:  Github Repository
+            icon: fab fa-github
+            url: https://github.com/AmanderPears/snake-coop-aspnet
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        #quote: >
+        #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: | # this will include new lines to allow paragraphs
+          A snake game to get familiar with <mark>ASP.Net</mark> and <mark>SignalR</mark.
+
+          <b>Technologies:</b> JavaScript, C#
+
+          <img style="display:block;margin-left:auto;margin-right:auto" src="images/snek-w-frends.png" alt="image-to-text screenshot">
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
