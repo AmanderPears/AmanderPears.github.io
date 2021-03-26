@@ -113,7 +113,7 @@ content:
 
           <b>Technologies:</b> JavaScript, KnockoutJS, Bootstrap
 
-          <img style="display:block;margin-left:auto;margin-right:auto" src="images/sudoku.png" alt="sudoku knockoutjs screenshot">
+          <img style="display:block;margin-left:auto;margin-right:auto" src="images/sudoku.PNG" alt="sudoku knockoutjs screenshot">
 
       - layout: left
         title: Snek-w-frends
@@ -133,7 +133,7 @@ content:
 
           <b>Technologies:</b> JavaScript, C#
 
-          <img style="display:block;margin-left:auto;margin-right:auto" src="images/snek-w-frends.png" alt="snake game with co-op screenshot">
+          <img style="display:block;margin-left:auto;margin-right:auto" src="images/snek-w-frends.PNG" alt="snake game with co-op screenshot">
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
