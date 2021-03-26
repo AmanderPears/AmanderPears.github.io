@@ -85,9 +85,9 @@ content:
         #quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            ▪ Saved months of testing time and streamlined complicated QA processes with automation using Excel (VBA), SOAPUI, and Auto Hotkey
+            &bull; Saved months of testing time and streamlined complicated QA processes with automation using Excel (VBA), SOAPUI, and Auto Hotkey
             
-            ▪ Developed prototype web apps using Angular and JavaScript
+            &bull; Developed prototype web apps using Angular and JavaScript
 
       - layout: left
         title: Seneca College
@@ -98,9 +98,9 @@ content:
         #quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            ▪ Debug codes and explain materials to students in the lab
+            &bull; Debug codes and explain materials to students in the lab
             
-            ▪ Troubleshoot technical issues and guide students through their assignments
+            &bull; Troubleshoot technical issues and guide students through their assignments
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
