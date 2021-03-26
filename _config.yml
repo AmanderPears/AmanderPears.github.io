@@ -129,7 +129,7 @@ content:
         #quote: >
         #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          A snake game to get familiar with <mark>ASP.Net</mark> and <mark>SignalR</mark.
+          A snake game to get familiar with <mark>ASP.Net</mark> and <mark>SignalR</mark>.
 
           <b>Technologies:</b> JavaScript, C#
 
